@@ -1,0 +1,15 @@
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\bin\Debug\net6.0\CodeKY-Knowledge-Check-2.exe
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\bin\Debug\net6.0\CodeKY-Knowledge-Check-2.deps.json
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\bin\Debug\net6.0\CodeKY-Knowledge-Check-2.runtimeconfig.json
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\bin\Debug\net6.0\CodeKY-Knowledge-Check-2.dll
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\bin\Debug\net6.0\CodeKY-Knowledge-Check-2.pdb
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\obj\Debug\net6.0\CodeKY-Knowledge-Check-2.csproj.AssemblyReference.cache
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\obj\Debug\net6.0\CodeKY-Knowledge-Check-2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\obj\Debug\net6.0\CodeKY-Knowledge-Check-2.AssemblyInfoInputs.cache
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\obj\Debug\net6.0\CodeKY-Knowledge-Check-2.AssemblyInfo.cs
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\obj\Debug\net6.0\CodeKY-Knowledge-Check-2.csproj.CoreCompileInputs.cache
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\obj\Debug\net6.0\CodeKY-Knowledge-Check-2.dll
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\obj\Debug\net6.0\refint\CodeKY-Knowledge-Check-2.dll
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\obj\Debug\net6.0\CodeKY-Knowledge-Check-2.pdb
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\obj\Debug\net6.0\CodeKY-Knowledge-Check-2.genruntimeconfig.cache
+G:\Code Kentucky Projects\CodeKY-Knowledge-Check-2\obj\Debug\net6.0\ref\CodeKY-Knowledge-Check-2.dll
