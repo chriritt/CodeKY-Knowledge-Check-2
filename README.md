@@ -1,1 +1,2 @@
-# CodeKY-Knowledge-Check-2
+# Knowledge Check #2 for Code Kentucky
+# -Chris Ritter
